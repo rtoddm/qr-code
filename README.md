@@ -25,8 +25,8 @@ This was a simple project that I completed in order to practice basic HTML and C
 ## My process
 
 1. I began by initializing my project as a public repository on [GitHub](https://github.com/).
-2. Configured my repository to publish my code to a web address (GitHub pages).
-3. Looked through the designs in order to plan how I'd tackle the project. This step is important to help you think through potential CSS classes to create reusable styles.
+2. Then I configured my repository to publish my code to a web address (GitHub pages).
+3. I looked through the designs in order to plan how I'd tackle the project. This step is important to help you think through potential CSS classes to create reusable styles.
 4. However, before worrying about any styles, I structured my HTML content.
 5. I then wrote out the basic styles for my project such as `font-family` and `font-size`, etc.
 6. Then I started adding CSS styles to the top of the page and worked down.
