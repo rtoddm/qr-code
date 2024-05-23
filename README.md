@@ -20,7 +20,7 @@ This was a simple project that I completed in order to practice basic HTML and C
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://rtoddm.github.io/qr-code/)
 
 ## My process
 
